@@ -1,4 +1,4 @@
-# Challenge_Eluvio
+# Challenge_Applications_Eluvio
 
 ## Problem Statement
 
